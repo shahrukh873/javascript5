@@ -11,6 +11,6 @@
     console.log(`My Name is ${name}`)
 })("shahrukh") ;// We pass argument..
 
-
+// / / Hellop 
 
 // pakoda(); // there is possibity that pollted by the global scope ;
