@@ -6,3 +6,5 @@ Id = "rtu"
 Email = "shahrukhmohammad9694"
 
 console.table([Email, Id , Account])
+
+// Prefer to not use var 
